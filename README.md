@@ -8,6 +8,7 @@ Pre-Requiusites:
 ----------------
 1. apk tool installed in your system.
 2. python 2.x installed.
+rgefd
 
 
 How to use Moblizer:
